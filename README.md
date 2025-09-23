@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...<picture>
 -->
 
+# Привет! 👋
+
+## 🛠️ Мои навыки
+
+![Loader](https://media.giphy.com/media/3o7aCR0pHxT3i0j9gy/giphy.gif)
+
+<div align="left">
+  <!-- Иконки технологий -->
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+## 📊 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник)
 
