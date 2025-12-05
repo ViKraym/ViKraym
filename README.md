@@ -18,6 +18,16 @@
 - Frontend: React и его экосистему
 - Основы DevOps и автоматизации
 
+
+### 🌐 Мои технологии (по объёму кода)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ViKraym&layout=donut&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
+
+> 🔍 Диаграмма строится на основе всех моих публичных репозиториев
+
+---
+
+
 ---
 
 ### 🤝 Добро пожаловать!
@@ -32,8 +42,6 @@
 
 --->
 
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=ViKraym&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViKraym&layout=compact&theme=radical)
 
 
 > P.S. Автоматизация, Веб, Сервера и немного хака 💻⚡
