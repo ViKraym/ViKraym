@@ -24,12 +24,16 @@
 Смотри, читай, предлагай идеи — **всегда рад обратной связи и сотрудничеству**.  
 Если есть что обсудить — пиши, не стесняйся!
 
----
+<!---
 
 ### 📬 Как связаться:
 [![VK](https://img.shields.io/badge/-VK-4C75A7?style=flat-square&logo=vk&logoColor=white)](https://vk.com/tvoy_profil)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tvoy_nik)
 
----
+--->
+
+![Ваша статистика](https://github-readme-stats.vercel.app/api?username=ViKraym&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViKraym&layout=compact&theme=radical)
+
 
 > P.S. Автоматизация, Веб, Сервера и немного хака 💻⚡
