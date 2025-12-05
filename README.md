@@ -21,7 +21,7 @@
 
 ### 🌐 Мои технологии (по объёму кода)
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ViKraym&layout=compact&theme=radical)
+![Топ языков](https://giscus.app/api/v1/public/github-readme-stats/top-langs?username=ViKraym&layout=donut&theme=radical)
 
 > 🔍 Диаграмма строится на основе всех моих публичных репозиториев
 
